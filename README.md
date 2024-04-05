@@ -1,8 +1,9 @@
-- hi!👋 I'm Lirs!
+Hi!👋 I'm Lirs!
 
-##  Zyrus Lirio]
 
-![Model](path_to_img.pdf?raw=true)
+<img src="https://en.idei.club/uploads/posts/2023-08/1691244315_en-idei-club-p-aesthetic-anime-room-gif-dizain-instagram-29.jpg"/>
+
+##  Zyrus Lirio
 
 **Bio:**
 
