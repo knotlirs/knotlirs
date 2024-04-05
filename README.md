@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @knotlirs
-- 👀 I’m interested in engineering 
-- 🌱 I’m currently learning robotics 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- hi!👋 I'm Lirs!
 
-<!---
-knotlirs/knotlirs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##  Zyrus Lirio]
+
+![Model](path_to_img.pdf?raw=true)
+
+**Bio:**
+
+Always eager to learn and collaborate on new projects.
+
+
+
+**Get in Touch:**
+
+Gmail: 21-08407@gmail.com
+
+
+**Let's build something awesome together!**
+
