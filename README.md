@@ -1,7 +1,8 @@
-Hi!👋 I'm Lirs!
+<div id="top"></div>
+<div align="center" height"400" ><img width="100%"  alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
-
-<img src="https://en.idei.club/uploads/posts/2023-08/1691244315_en-idei-club-p-aesthetic-anime-room-gif-dizain-instagram-29.jpg"/>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Zyrus Lirio; Mechatronics+Engineering; Basketball player;Gingineer!!;" alt="Mechatronics Engineering Student, Brazilian front-end developer, Gingineer!!"></a>
 
 ##  Zyrus Lirio
 
